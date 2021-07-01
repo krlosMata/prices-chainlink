@@ -1,0 +1,26 @@
+[
+    {
+        "tokenName": "ETH",
+        "addressAggregator": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419"
+    },
+    {
+        "tokenName": "BTC",
+        "addressAggregator": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c"
+    },
+    {
+        "tokenName": "BAT",
+        "addressAggregator": "0x9441D7556e7820B5ca42082cfa99487D56AcA958"
+    },
+    {
+        "tokenName": "AAVE",
+        "addressAggregator": "0x547a514d5e3769680Ce22B2361c10Ea13619e8a9"
+    },
+    {
+        "tokenName": "COMP",
+        "addressAggregator": "0xdbd020CAeF83eFd542f4De03e3cF0C28A4428bd5"
+    },
+    {
+        "tokenName": "CRV",
+        "addressAggregator": "0xCd627aA160A6fA45Eb793D19Ef54f5062F20f33f"
+    }
+]

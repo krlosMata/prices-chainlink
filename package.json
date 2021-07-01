@@ -1,0 +1,23 @@
+{
+  "name": "prices-chainlink",
+  "version": "1.0.0",
+  "description": "prices-chainlink",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krlosMata/prices-chainlink.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krlosMata/prices-chainlink/issues"
+  },
+  "homepage": "https://github.com/krlosMata/prices-chainlink#readme",
+  "dependencies": {
+    "ethers": "^5.4.0"
+  }
+}
